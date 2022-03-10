@@ -1,9 +1,14 @@
-## Hi there 👋 I'm Haesung Jung
+## Hi there 👋 I'm Jung Haesung
 
 ### 🎓 학력 | Education
 
 - 선린인터넷고등학교 소프트웨어과 졸업 (2019 ~ 2021)
+  
+  Sunrin Internet Highschool, Software Department
+  
 - 숭실대학교 컴퓨터학부 재학 (2022 ~)
+
+  Soongsil University, Computer Science and Engineering Department
 
 ### 🖥️ 기술 | Skills
 
