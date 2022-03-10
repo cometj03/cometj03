@@ -14,13 +14,18 @@
 
 - Android Clean Architecture
 - Jetpack Compose
-- Kotlin | KMM
+- Kotlin / KMM
 - AI
 - Functional Programming
 
-### 🔭 I'm working on ...
+### 🔭 진행중인 프로젝트 | I'm working on ...
 
 - Update soon
+
+### 👀 블로그 | Blog
+
+- [현 블로그](https://cometj03.github.io/)
+- [전 블로그(네이버)](https://blog.naver.com/jhs030526)
 
 ### 📞 연락처 | Contacts
 
