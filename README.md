@@ -4,7 +4,7 @@
 
 - 선린인터넷고등학교 소프트웨어과 졸업 (2019 ~ 2021)
   
-  Sunrin Internet Highschool, Software Department
+  Sunrin Internet High chool, Software Department
   
 - 숭실대학교 컴퓨터학부 재학 (2022 ~)
 
