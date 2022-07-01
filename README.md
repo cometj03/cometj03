@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcometj03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Hi there 👋 I'm Jung Haesung
 
 ### 🎓 학력 | Education
@@ -23,11 +21,17 @@
 
 ### 👀 블로그 | Blog
 
-- https://cometj03.github.io/
-- https://blog.naver.com/jhs030526/
+- [cometj03.github.io/](https://cometj03.github.io/)
+- [blog.naver.com/jhs030526/](https://blog.naver.com/jhs030526/)
 
 ### 📞 연락처 | Contact Me
 
 - [harryjung1001@gmail.com](mailto:harryjung1001@gmail.com)
 - [Instagram](https://www.instagram.com/cometj03)
 
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcometj03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhs030526)](https://solved.ac/jhs030526)
