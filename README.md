@@ -17,6 +17,9 @@
 
 ### 🔭 진행중인 프로젝트
 
+- Dev Camp: YDS UI 컴포넌트를 선언형 UI로 재구성하기
+  - https://github.com/Soongsil-Developers/ssu-devcamp/issues/6
+
 - 더 레스토랑 카페 주문 관리 앱
   - https://github.com/cometj03/TR_cafe_order_app
 
