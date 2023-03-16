@@ -23,6 +23,9 @@
 - 더 레스토랑 카페 주문 관리 앱
   - https://github.com/cometj03/TR_cafe_order_app
 -->
+
+![comet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cometj03)
+
 ### 👀 블로그
 
 - [cometj03.github.io/](https://cometj03.github.io/)
