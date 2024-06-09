@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Jung Haesung
 
+![cometj03's GitHub stats](https://github-readme-stats.vercel.app/api?username=cometj03)
+
 <!-- ### 🎓 학력
 
 - 선린인터넷고등학교 소프트웨어과 졸업 (2019 ~ 2021)
@@ -22,9 +24,6 @@
 
 - 더 레스토랑 카페 주문 관리 앱
   - https://github.com/cometj03/TR_cafe_order_app
--->
-
-![comet's GitHub stats](https://github-readme-stats.vercel.app/api?username=cometj03)
 
 ### 👀 블로그
 
@@ -35,6 +34,7 @@
 
 - [harryjung1001@gmail.com](mailto:harryjung1001@gmail.com)
 - [Instagram](https://www.instagram.com/cometj03)
+-->
 
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhs030526)](https://solved.ac/jhs030526) -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhs030526)](https://solved.ac/jhs030526)
